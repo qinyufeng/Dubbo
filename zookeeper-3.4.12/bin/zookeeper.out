@@ -1,0 +1,31 @@
+2018-05-04 14:58:17,264 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/qyf/zookeeper-3.4.12/bin/../conf/zoo.cfg
+2018-05-04 14:58:17,275 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
+2018-05-04 14:58:17,276 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
+2018-05-04 14:58:17,276 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
+2018-05-04 14:58:17,276 [myid:] - WARN  [main:QuorumPeerMain@116] - Either no config or no quorum defined in config, running  in standalone mode
+2018-05-04 14:58:17,301 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/qyf/zookeeper-3.4.12/bin/../conf/zoo.cfg
+2018-05-04 14:58:17,302 [myid:] - INFO  [main:ZooKeeperServerMain@98] - Starting server
+2018-05-04 14:58:17,651 [myid:] - INFO  [main:Environment@100] - Server environment:zookeeper.version=3.4.12-e5259e437540f349646870ea94dc2658c4e44b3b, built on 03/27/2018 03:55 GMT
+2018-05-04 14:58:17,652 [myid:] - INFO  [main:Environment@100] - Server environment:host.name=192.169.0.205
+2018-05-04 14:58:17,652 [myid:] - INFO  [main:Environment@100] - Server environment:java.version=1.8.0_161
+2018-05-04 14:58:17,653 [myid:] - INFO  [main:Environment@100] - Server environment:java.vendor=Oracle Corporation
+2018-05-04 14:58:17,653 [myid:] - INFO  [main:Environment@100] - Server environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre
+2018-05-04 14:58:17,653 [myid:] - INFO  [main:Environment@100] - Server environment:java.class.path=/Users/qyf/zookeeper-3.4.12/bin/../build/classes:/Users/qyf/zookeeper-3.4.12/bin/../build/lib/*.jar:/Users/qyf/zookeeper-3.4.12/bin/../lib/slf4j-log4j12-1.7.25.jar:/Users/qyf/zookeeper-3.4.12/bin/../lib/slf4j-api-1.7.25.jar:/Users/qyf/zookeeper-3.4.12/bin/../lib/netty-3.10.6.Final.jar:/Users/qyf/zookeeper-3.4.12/bin/../lib/log4j-1.2.17.jar:/Users/qyf/zookeeper-3.4.12/bin/../lib/jline-0.9.94.jar:/Users/qyf/zookeeper-3.4.12/bin/../lib/audience-annotations-0.5.0.jar:/Users/qyf/zookeeper-3.4.12/bin/../zookeeper-3.4.12.jar:/Users/qyf/zookeeper-3.4.12/bin/../src/java/lib/*.jar:/Users/qyf/zookeeper-3.4.12/bin/../conf:
+2018-05-04 14:58:17,653 [myid:] - INFO  [main:Environment@100] - Server environment:java.library.path=/Users/qyf/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2018-05-04 14:58:17,654 [myid:] - INFO  [main:Environment@100] - Server environment:java.io.tmpdir=/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/
+2018-05-04 14:58:17,654 [myid:] - INFO  [main:Environment@100] - Server environment:java.compiler=<NA>
+2018-05-04 14:58:17,658 [myid:] - INFO  [main:Environment@100] - Server environment:os.name=Mac OS X
+2018-05-04 14:58:17,659 [myid:] - INFO  [main:Environment@100] - Server environment:os.arch=x86_64
+2018-05-04 14:58:17,660 [myid:] - INFO  [main:Environment@100] - Server environment:os.version=10.13.2
+2018-05-04 14:58:17,660 [myid:] - INFO  [main:Environment@100] - Server environment:user.name=root
+2018-05-04 14:58:17,660 [myid:] - INFO  [main:Environment@100] - Server environment:user.home=/var/root
+2018-05-04 14:58:17,661 [myid:] - INFO  [main:Environment@100] - Server environment:user.dir=/Users/qyf/zookeeper-3.4.12/bin
+2018-05-04 14:58:17,680 [myid:] - INFO  [main:ZooKeeperServer@835] - tickTime set to 2000
+2018-05-04 14:58:17,681 [myid:] - INFO  [main:ZooKeeperServer@844] - minSessionTimeout set to -1
+2018-05-04 14:58:17,681 [myid:] - INFO  [main:ZooKeeperServer@853] - maxSessionTimeout set to -1
+2018-05-04 14:58:17,701 [myid:] - INFO  [main:ServerCnxnFactory@117] - Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory
+2018-05-04 14:58:17,718 [myid:] - INFO  [main:NIOServerCnxnFactory@89] - binding to port 0.0.0.0/0.0.0.0:2181
+2018-05-04 15:42:11,790 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /127.0.0.1:53273
+2018-05-04 15:42:11,808 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@948] - Client attempting to establish new session at /127.0.0.1:53273
+2018-05-04 15:42:11,813 [myid:] - INFO  [SyncThread:0:FileTxnLog@213] - Creating new log file: log.1
+2018-05-04 15:42:11,834 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@693] - Established session 0x100012e83620000 with negotiated timeout 40000 for client /127.0.0.1:53273
